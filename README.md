@@ -1,6 +1,6 @@
 ## Rustln
 
-大家好，我是 Rustln，是一名来自中国的 Rust 开发工程师。 👋
+Hi, I'm Rustln，C# Developer at day, Rustacean at night. 👋
 
 ### 名字的由来
 
