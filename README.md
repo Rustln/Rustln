@@ -1,6 +1,6 @@
 ## Rustln
 
-Hi, I'm Rustln，C# Developer at day, Rustacean at night. 👋
+Hi, I'm Rustln, C# Developer at day, Rustacean at night.
 
 ### 名字的由来
 
