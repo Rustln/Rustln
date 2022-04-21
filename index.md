@@ -4,6 +4,8 @@ Hi, I'm Rustln, C# Developer at day, Rustacean at night.
 
 ### 名字的由来
 
+#### 英文名
+
 **`Rustln`** 名字的由来得从 `Rust` 第一行代码说起：
 
 ```rust
@@ -15,6 +17,14 @@ println("{}", "hello world");
 在这里有一个特别的单词 `println`，是由 `print` 和 `line` 两个单词组合而成，连在一起后使用 `ln` 缩写替代 `line`。
 
 接着说说 `line` 这个单词在牛津字典中表示 **队伍，行，线** 等意思，加上第一眼就对 `Rust` 有着痴迷的变态恋，**于是把 `Rust` 和 `ln` 组合在了一起**，表示加入 `Rust` 语言**队伍**，转入 `Rust` 这一**行**。
+
+另外 `ln` 和 `lang(language)` 读音上较接近，也可以看作是 `lang` 的缩写。
+
+#### 中文名
+
+`锈郎` 是 `Rustln` 的中文名字，说起这个名字的来由更有意思，在 `Rust` 官方仓库 [https://github.com/rust-lang/rust](https://github.com/rust-lang/rust) 页面**不小心点击了浏览器自带的翻译工具并翻译成中文 (简体) 后**，`rust-lang/rust` 惊奇的被翻译成了 **`锈郎/锈`**！！！
+
+从此，**`锈郎`** 便成为了 `Rustln` 的中文名。
 
 ### 标志设计理念
 
