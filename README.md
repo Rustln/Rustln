@@ -30,7 +30,7 @@ println("{}", "hello world");
 
 <div align="center">
 
-<img src="./avatar.jpg" />
+<img src="https://avatars.githubusercontent.com/u/100085326?v=4" />
 
 </div>
 
