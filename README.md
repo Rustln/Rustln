@@ -2,6 +2,8 @@
 
 Hi, I'm Rustln, C# Developer at day, Rustacean at night.
 
+> We love you C#, but Rust is just better.
+
 ### 名字的由来
 
 #### 英文名
