@@ -1,4 +1,8 @@
-![](./rustacean.gif)
+<div align="center">
+
+<img src="./rustacean.gif" />
+
+</div>
 
 ## Rustln
 
