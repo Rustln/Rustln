@@ -1,3 +1,5 @@
+![](assets/rustacean.gif)
+
 ## Rustln
 
 Hi, I'm Rustln, C# Developer at day, Rustacean at night.
