@@ -1,4 +1,4 @@
-![](assets/rustacean.gif)
+![](./rustacean.gif)
 
 ## Rustln
 
